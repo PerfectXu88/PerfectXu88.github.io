@@ -37,8 +37,11 @@ My research interests are primarily focused on autonomous driving, with a partic
 [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/pdf/2502.01387)
 
 **Chengkai Xu**, Jiaqi Liu, Peng Hang, Jian Sun, preprint.
+</div>
+</div>
 
-<div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
 [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/pdf/2408.09468)
 
 **Chengkai Xu**, Zihao Deng, Jiaqi Liu⋆, Chao Huang, Peng Hang⋆, preprint.
