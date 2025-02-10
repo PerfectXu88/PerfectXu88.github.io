@@ -27,7 +27,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 - *2024.10*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2410.24152">Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning</a> is preprinted on Arvix.
 - *2024.12*: &nbsp;🎉🎉 I was honored with the prestigious title of <strong>Academic Star of Tongji University</strong>, the highest academic distinction awarded to students at our university!This achievement has been reported in <a href="https://mp.weixin.qq.com/s/WZaLAsgrYcTzlXYBO23zxQ">1</a> and <a href="https://mp.weixin.qq.com/s/0AmkGo2bbaK7hZuU81toTw">1</a>.
 - *2024.08*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2408.09468">Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework</a> is preprinted on Arvix.
-- *2024.05*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China’s transportation field!
+- *2024.05*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China’s transportation field! And the prize is the only one our school won in the same year!
 
 # 📝 Publications 
 
@@ -54,8 +54,8 @@ My research interests are primarily focused on autonomous driving, with a partic
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
+- *2021.09 - 2025.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China (Rank: 1/230)
 
 <!--
 # 💬 Invited Talks
