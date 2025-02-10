@@ -17,13 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji University</a>, , where I am actively involved in the <a href="https://tops.tongji.edu.cn/">TOPS research group</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of cutting-edge technologies in autonomous driving systems and artificial intelligence.
+I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji University</a>, , where I am actively involved in the <a href="https://tops.tongji.edu.cn/">TOPS Lab</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of cutting-edge technologies in autonomous driving systems and artificial intelligence.
 
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2502.01387">TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning</a> is preprinted on Arvix. 
+- *2025.01*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2501.19025">Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic</a> is preprinted on Arvix.
+- *2024.10*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2410.24152">Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning</a> is preprinted on Arvix.
+- *2024.12*: &nbsp;🎉🎉 I was honored with the prestigious title of <strong>Academic Star of Tongji University<\strong>, the highest academic distinction awarded to students at our university!
+- *2024.08*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2408.09468">Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework</a> is preprinted on Arvix.
+- *2024.05*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China’s transportation field!
 
 # 📝 Publications 
 
