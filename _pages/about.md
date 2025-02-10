@@ -31,7 +31,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TeLL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/pdf/2502.01387)
@@ -40,7 +40,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Towards.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/pdf/2408.09468)
 
@@ -53,8 +53,13 @@ My research interests are primarily focused on autonomous driving, with a partic
 - [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://arxiv.org/pdf/2501.19025), Shiyu Fang, Donghao Zhou, Yiming Cui, **ChengKai Xu**, Peng Hang, Jian Sun, preprint.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* Academic Star of Tongji University
+- *2024.11* Jingchuan Scholarship
+- *2024.05* First Prize in China Transportation Science and Technology Competition
+- *2022.12* Outstanding Student Leader of Tongji University
+- *2022-2025* Tang Zhongying Moral Education Scholarship
+- *2021-2024* Outstanding Student Award at Tongji University
+
 
 # 📖 Educations
 - *2025.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
