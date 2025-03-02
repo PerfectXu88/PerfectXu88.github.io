@@ -22,9 +22,9 @@ I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji Uni
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 <a href="https://arxiv.org/pdf/2410.24152">One paper</a> is accepted by IEEE Robotics and Automation Letters(SCI, Q1).
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2502.01387">TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning</a> is preprinted on Arvix. 
 - *2025.01*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2501.19025">Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic</a> is preprinted on Arvix.
-- *2024.10*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2410.24152">Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning</a> is preprinted on Arvix.
 - *2024.12*: &nbsp;🎉🎉 I was honored with the prestigious title of <strong>Academic Star of Tongji University</strong>, the highest academic distinction awarded to students at our university!This achievement has been reported in <a href="https://mp.weixin.qq.com/s/WZaLAsgrYcTzlXYBO23zxQ">1</a> and <a href="https://mp.weixin.qq.com/s/0AmkGo2bbaK7hZuU81toTw">2</a>.
 - *2024.08*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2408.09468">Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework</a> is preprinted on Arvix.
 - *2024.05*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China’s transportation field! And the prize is the only one our school won in the same year!
