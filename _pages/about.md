@@ -22,6 +22,7 @@ I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji Uni
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2503.00502">Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions</a> is preprinted on Arvix.
 - *2025.02*: &nbsp;🎉🎉 <a href="https://arxiv.org/pdf/2410.24152">One paper</a> is accepted by IEEE Robotics and Automation Letters(SCI, Q1).
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2502.01387">TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning</a> is preprinted on Arvix. 
 - *2025.01*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2501.19025">Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic</a> is preprinted on Arvix.
@@ -49,7 +50,8 @@ My research interests are primarily focused on autonomous driving, with a partic
 </div>
 </div>
 
-- [Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning](https://arxiv.org/pdf/2410.24152), Jiaqi Liu, **Chengkai Xu**, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, preprint.
+- [Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning](https://arxiv.org/pdf/2410.24152), Jiaqi Liu, **Chengkai Xu**, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, accepted by IEEE Robotics and Automation Letters (RA-L).
+- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/pdf/2503.00502), Shiyu Fang, Jiaqi Liu, **Chengkai Xu**, Chen Lv, Peng Hang, Jian Sun, preprint.
 - [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://arxiv.org/pdf/2501.19025), Shiyu Fang, Donghao Zhou, Yiming Cui, **ChengKai Xu**, Peng Hang, Jian Sun, preprint.
 
 # 🎖 Honors and Awards
