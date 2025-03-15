@@ -23,7 +23,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2503.00502">Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions</a> is preprinted on Arvix.
-- *2025.02*: &nbsp;🎉🎉 <a href="https://arxiv.org/pdf/2410.24152">One paper</a> is accepted by IEEE Robotics and Automation Letters(SCI, Q1).
+- *2025.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10924758">One paper</a> is accepted by IEEE Robotics and Automation Letters(SCI, Q1).
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2502.01387">TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning</a> is preprinted on Arvix. 
 - *2025.01*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2501.19025">Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic</a> is preprinted on Arvix.
 - *2024.12*: &nbsp;🎉🎉 I was honored with the prestigious title of <strong>Academic Star of Tongji University</strong>, the highest academic distinction awarded to students at our university!This achievement has been reported in <a href="https://mp.weixin.qq.com/s/WZaLAsgrYcTzlXYBO23zxQ">1</a> and <a href="https://mp.weixin.qq.com/s/0AmkGo2bbaK7hZuU81toTw">2</a>.
