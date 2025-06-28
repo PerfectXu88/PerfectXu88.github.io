@@ -39,7 +39,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/pdf/2502.01387)
 
-**Chengkai Xu**, Jiaqi Liu, Peng Hang, Jian Sun, preprint.
+**Chengkai Xu**, Jiaqi Liu, Shiyu Fang, Yiming Cui, Dong Chen, Peng Hang, Jian Sun, preprint.
 </div>
 </div>
 
@@ -56,7 +56,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 <div class='paper-box-text' markdown="1">
 [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875)
 
-**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang*, Jian Sun, preprint.
+**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang⋆, Jian Sun, preprint.
 
 </div>
 </div>
