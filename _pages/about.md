@@ -44,13 +44,24 @@ My research interests are primarily focused on autonomous driving, with a partic
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Towards.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/pdf/2408.09468)
 
 **Chengkai Xu**, Zihao Deng, Jiaqi Liu⋆, Chao Huang, Peng Hang⋆, preprint.
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Towards.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875)
+
+**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang*, Jian Sun, preprint.
+
+</div>
+</div>
+
+
 
 - [Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/10924758), Jiaqi Liu, **Chengkai Xu**, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, accepted by IEEE Robotics and Automation Letters (RA-L).
 - [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/pdf/2503.00502), Shiyu Fang, Jiaqi Liu, **Chengkai Xu**, Chen Lv, Peng Hang, Jian Sun, preprint.
