@@ -22,7 +22,7 @@ I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji Uni
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Two papers (one as first author) are accepted by <a href="https://ieee-itsc.org/2025/">ITSC 2025</a>, see <a href="https://arxiv.org/abs/2506.16311">[1]</a> and <a href="https://arxiv.org/abs/2507.05754">[2]</a>.
+- *2025.07*: &nbsp;🎉🎉 Two papers (one as first author) are accepted by <a href="https://ieee-itsc.org/2025/">ITSC 2025</a>, see <a href="https://arxiv.org/abs/2506.16311">1</a> and <a href="https://arxiv.org/abs/2507.05754">2</a>.
 - *2025.06*: &nbsp;🎓🎓 I received my Bachelor's degree from Tongji University, recognized as Shanghai Outstanding Graduate (top 1%) with an Excellent Graduation Thesis!
 - *2025.06*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2506.16311">Towards Emergency Scenarios: An Integrated Decision-making Framework of Multi-lane Platoon Reorganization</a> is preprinted on Arvix.
 - *2025.04*: &nbsp;🏆🏆 I received the <a href="https://mp.weixin.qq.com/s/RAbNB0ACCUqKaReUosNBzg"> <strong>Pursuing Excellence Student Award</strong></a>, the highest honor for undergraduates at Tongji University — awarded to only 6 students per year!
