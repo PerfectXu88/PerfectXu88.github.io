@@ -22,16 +22,17 @@ I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji Uni
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2506.16311">One paper</a> is accepted by <a herf = "https://ieee-itsc.org/2025/"> ITSC 2025 </a>.
+- *2025.07*: &nbsp;🎉🎉 Two papers (one as first author) are accepted by <a href="https://ieee-itsc.org/2025/">ITSC 2025</a>, see <a href="https://arxiv.org/abs/2506.16311">[1]</a> and <a href="https://arxiv.org/abs/2507.05754">[2]</a>.
+- *2025.06*: &nbsp;🎓🎓 I received my Bachelor's degree from Tongji University, recognized as Shanghai Outstanding Graduate (top 1%) with an Excellent Graduation Thesis!
 - *2025.06*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2506.16311">Towards Emergency Scenarios: An Integrated Decision-making Framework of Multi-lane Platoon Reorganization</a> is preprinted on Arvix.
-- *2025.05*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2505.06875">Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning</a> is preprinted on Arvix.
+- *2025.04*: &nbsp;🏆🏆 I received the <a href="https://mp.weixin.qq.com/s/RAbNB0ACCUqKaReUosNBzg"> <strong>Pursuing Excellence Student Award</strong></a>, the highest honor for undergraduates at Tongji University — awarded to only 6 students per year!
 - *2025.03*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2503.00502">Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions</a> is preprinted on Arvix.
 - *2025.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10924758">One paper</a> is accepted by IEEE Robotics and Automation Letters(SCI, Q1).
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2502.01387">TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning</a> is preprinted on Arvix. 
 - *2025.01*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2501.19025">Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic</a> is preprinted on Arvix.
-- *2024.12*: &nbsp;🎉🎉 I was honored with the prestigious title of <strong>Academic Star of Tongji University</strong>, the highest academic distinction awarded to students at our university!This achievement has been reported in <a href="https://mp.weixin.qq.com/s/WZaLAsgrYcTzlXYBO23zxQ">1</a> and <a href="https://mp.weixin.qq.com/s/0AmkGo2bbaK7hZuU81toTw">2</a>.
+- *2024.12*: &nbsp;🏆🏆 I was honored with the prestigious title of <a href="https://mp.weixin.qq.com/s/fKRcSQeTS0OqsTv-cA__Ow"> <strong>Academic Star of Tongji University</strong></a>, the highest academic distinction awarded to students at our university!This achievement has been reported in <a href="https://mp.weixin.qq.com/s/WZaLAsgrYcTzlXYBO23zxQ">1</a> and <a href="https://mp.weixin.qq.com/s/0AmkGo2bbaK7hZuU81toTw">2</a>.
 - *2024.08*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2408.09468">Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework</a> is preprinted on Arvix.
-- *2024.05*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China’s transportation field! And the prize is the only one our school won in the same year!
+- *2024.05*: &nbsp;🏆🏆 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China’s transportation field! And the prize is the only one our school won in the same year!
 
 # 📝 Publications 
 
