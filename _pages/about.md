@@ -22,6 +22,7 @@ I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji Uni
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2506.16311">One paper</a> is accepted by <a herf = "https://ieee-itsc.org/2025/"> ITSC 2025 </a>.
 - *2025.06*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2506.16311">Towards Emergency Scenarios: An Integrated Decision-making Framework of Multi-lane Platoon Reorganization</a> is preprinted on Arvix.
 - *2025.05*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2505.06875">Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning</a> is preprinted on Arvix.
 - *2025.03*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2503.00502">Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions</a> is preprinted on Arvix.
