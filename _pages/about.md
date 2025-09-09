@@ -79,6 +79,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 - [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://arxiv.org/pdf/2501.19025), Shiyu Fang, Donghao Zhou, Yiming Cui, **ChengKai Xu**, Peng Hang, Jian Sun, preprint.
 
 # 🎖 Honors and Awards
+- *2025.07* Shanghai Outstanding Graduate (top 1%) with an Excellent Graduation Thesis
 - *2025.05* Tongji University Pursuit of Excellence Award (6/18000+)
 - *2024.12* Academic Star of Tongji University
 - *2024.11* Jingchuan Scholarship
