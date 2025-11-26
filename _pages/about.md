@@ -22,12 +22,13 @@ I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji Uni
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11264499">One paper</a> is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).
 - *2025.09*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11175011">One paper</a> is accepted by IEEE Transactions on Consumer Electronics(SCI, Q1).
 - *2025.09*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2509.04853">A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing</a> is preprinted on Arvix. [Code](https://github.com/PerfectXu88/KDP-AD), [Project Page](https://perfectxu88.github.io/KDP-AD/)
+- *2025.07*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2507.21814">Interactive Adversarial Testing of Autonomous Vehicles with Adjustable Confrontation Intensity</a> is preprinted on Arvix.
 - *2025.07*: &nbsp;🎉🎉 Two papers (one as first author) are accepted by <a href="https://ieee-itsc.org/2025/">ITSC 2025</a>, see <a href="https://arxiv.org/abs/2505.06875">1</a> and <a href="https://arxiv.org/abs/2507.05754">2</a>.
 - *2025.06*: &nbsp;🎓🎓 I received my Bachelor's degree from Tongji University, recognized as Shanghai Outstanding Graduate (top 1%) with an Excellent Graduation Thesis!
 - *2025.04*: &nbsp;🏆🏆 I received the <a href="https://mp.weixin.qq.com/s/RAbNB0ACCUqKaReUosNBzg"> <strong>Pursuing Excellence Student Award</strong></a>, the highest honor for undergraduates at Tongji University — awarded to only 6 students per year!
-- *2025.03*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2503.00502">Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions</a> is preprinted on Arvix.
 - *2025.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10924758">One paper</a> is accepted by IEEE Robotics and Automation Letters(SCI, Q1).
 - *2025.02*: &nbsp;🎉🎉 One paper (first author) named <a href="https://arxiv.org/pdf/2502.01387">TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning</a> is preprinted on Arvix. 
 - *2025.01*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/pdf/2501.19025">Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic</a> is preprinted on Arvix.
