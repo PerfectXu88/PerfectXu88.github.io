@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at <a href="en.tongji.edu.cn">Tongji University</a>, , where I am actively involved in the <a href="https://tops.tongji.edu.cn/">TOPS Lab</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of cutting-edge technologies in autonomous driving systems and artificial intelligence.
+I am currently a master's student at <a href="en.tongji.edu.cn">Tongji University</a>, where I am actively involved in the <a href="https://tops.tongji.edu.cn/">TOPS Lab</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of cutting-edge technologies in autonomous driving systems and artificial intelligence.
 
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
@@ -61,9 +61,9 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Towards.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/pdf/2408.09468)
+[Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://ieeexplore.ieee.org/document/11475421)
 
-**Chengkai Xu**, Zihao Deng, Jiaqi Liu⋆, Chao Huang, Peng Hang⋆, preprint.
+**Chengkai Xu**, Zihao Deng, Jiaqi Liu⋆, Aijing Kong, Yu Tang, Chao Huang, Peng Hang⋆, accepted by IEEE Robotics and Automation Letters (TVT).
 
 </div>
 </div>
@@ -72,15 +72,15 @@ My research interests are primarily focused on autonomous driving, with a partic
 <div class='paper-box-text' markdown="1">
 [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/abs/2505.06875)
 
-**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang⋆, Jian Sun, preprint.
+**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Yuhang Zhang, Peng Hang⋆, Jian Sun, accepted by IEEE Intelligent Transportation Systems Conference (ITSC).
 
 </div>
 </div>
 
 
 - [Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/10924758), Jiaqi Liu, **Chengkai Xu**, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, accepted by IEEE Robotics and Automation Letters (RA-L).
-- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/pdf/2503.00502), Shiyu Fang, Jiaqi Liu, **Chengkai Xu**, Chen Lv, Peng Hang, Jian Sun, preprint.
-- [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://arxiv.org/pdf/2501.19025), Shiyu Fang, Donghao Zhou, Yiming Cui, **ChengKai Xu**, Peng Hang, Jian Sun, preprint.
+- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/pdf/2503.00502), Shiyu Fang, Jiaqi Liu, **Chengkai Xu**, Chen Lv, Peng Hang, Jian Sun, accepted by IEEE Transactions on Intelligent Transportation Systems (TITS).
+- [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://arxiv.org/pdf/2501.19025), Shiyu Fang, Donghao Zhou, Yiming Cui, **ChengKai Xu**, Peng Hang, Jian Sun, accepted by IEEE Intelligent Vehicles Symposium (IV).
 
 # 🎖 Honors and Awards
 - *2025.07* Shanghai Outstanding Graduate (top 1%) with an Excellent Graduation Thesis
