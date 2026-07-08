@@ -22,7 +22,7 @@ I am currently a master's student at <a href="en.tongji.edu.cn">Tongji Universit
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11538396">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://perfectxu88.github.io/TeLL-Drive.github.io/)
+- *2026.06*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11595316">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://perfectxu88.github.io/TeLL-Drive.github.io/)
 - *2026.05*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11538396">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
 - *2026.04*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11475421">One paper</a>(First author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).[Project Page](https://perfectxu88.github.io/Towards/)
 - *2026.04*: &nbsp;🎉🎉 One paper named <a href="https://arxiv.org/abs/2604.07378">Evaluation as Evolution: Transforming Adversarial Diffusion into Closed-Loop Curricula for Autonomous Vehicles</a> is preprinted on Arvix.
