@@ -57,7 +57,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/pdf/2502.01387)
 
-**Chengkai Xu**, Jiaqi Liu, Shiyu Fang, Yiming Cui, Dong Chen, Peng Hang⋆, Jian Sun, preprint.
+**Chengkai Xu**, Jiaqi Liu, Shiyu Fang, Yiming Cui, Dong Chen, Peng Hang⋆, Jian Sun, accepted by IEEE Transactions on Intelligent Transportation Systems (TITS).
 </div>
 </div>
 
