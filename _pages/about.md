@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's student at <a href="en.tongji.edu.cn">Tongji University</a>, where I am actively involved in the <a href="https://tops.tongji.edu.cn/">TOPS Lab</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of cutting-edge technologies in autonomous driving systems and artificial intelligence.
+I am currently a PhD student at <a href="en.tongji.edu.cn">Tongji University</a>, where I am actively involved in the <a href="https://tops.tongji.edu.cn/">TOPS Lab</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of cutting-edge technologies in autonomous driving systems and artificial intelligence.
 
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
