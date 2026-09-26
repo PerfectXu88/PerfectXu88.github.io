@@ -22,7 +22,7 @@ I am currently a PhD student at <a href="en.tongji.edu.cn">Tongji University</a>
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 <a href="https://github.com/PerfectXu88/DriveHierarchy">One paper</a>(First author) is accepted by The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS).[Code](https://github.com/PerfectXu88/DriveHierarchy)[Dataset](https://huggingface.co/datasets/ChengkaiXu/DriveHierarchy)[Project Page](https://perfectxu88.github.io/DriveHierarchy/)
+- *2026.06*: &nbsp;🎉🎉 <a href="https://github.com/PerfectXu88/DriveHierarchy">One paper</a>(First author) is accepted by The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS).[Code](https://github.com/PerfectXu88/DriveHierarchy), [Dataset](https://huggingface.co/datasets/ChengkaiXu/DriveHierarchy), [Project Page](https://perfectxu88.github.io/DriveHierarchy/)
 - *2026.06*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11595316">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://perfectxu88.github.io/TeLL-Drive.github.io/)
 - *2026.05*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11538396">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
 - *2026.04*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11475421">One paper</a>(First author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).[Project Page](https://perfectxu88.github.io/Towards/)
@@ -44,19 +44,28 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Fig_KDP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DriveHierarchy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing](https://arxiv.org/abs/2509.04853)
+[DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution](https://github.com/PerfectXu88/DriveHierarchy)
 
-**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Peng Hang⋆, Jian Sun, preprint. [Code](https://github.com/PerfectXu88/KDP-AD), [Project Page](https://perfectxu88.github.io/KDP-AD/)
+**Chengkai Xu**, Jiaqi Liu, Yicheng Guo, Peng Hang, Jian Sun, NeurIPS 2026. [Code](https://github.com/PerfectXu88/DriveHierarchy), [Project Page](https://perfectxu88.github.io/DriveHierarchy/), [Dataset](https://huggingface.co/datasets/ChengkaiXu/DriveHierarchy)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform](https://ieeexplore.ieee.org/abstract/document/11538396)
+
+**Chengkai Xu**, Yiming Cui, Jiaqi Liu, Yicheng Guo, Cheng Qin, Geyuan Zhang, Xinwei Dong, Shiyu Fang, Peng Hang, Jian Sun, accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). [Project Page](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TeLL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/pdf/2502.01387)
+[TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/11595316)
 
 **Chengkai Xu**, Jiaqi Liu, Shiyu Fang, Yiming Cui, Dong Chen, Peng Hang⋆, Jian Sun, accepted by IEEE Transactions on Intelligent Transportation Systems (TITS).
 </div>
