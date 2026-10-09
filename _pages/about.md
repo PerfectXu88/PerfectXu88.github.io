@@ -22,7 +22,7 @@ I am currently a PhD student at <a href="en.tongji.edu.cn">Tongji University</a>
 My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 <a href="https://github.com/PerfectXu88/DriveHierarchy">One paper</a>(First author) is accepted by The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS).[Code](https://github.com/PerfectXu88/DriveHierarchy), [Dataset](https://huggingface.co/datasets/ChengkaiXu/DriveHierarchy), [Project Page](https://perfectxu88.github.io/DriveHierarchy/)
+- *2026.09*: &nbsp;🎉🎉 <a href="https://github.com/PerfectXu88/DriveHierarchy">One paper</a>(First author) is accepted by The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS).[Code](https://github.com/PerfectXu88/DriveHierarchy), [Dataset](https://huggingface.co/datasets/ChengkaiXu/DriveHierarchy), [Project Page](https://perfectxu88.github.io/DriveHierarchy/)
 - *2026.06*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11595316">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://perfectxu88.github.io/TeLL-Drive.github.io/)
 - *2026.05*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11538396">One paper</a>(First author) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
 - *2026.04*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11475421">One paper</a>(First author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).[Project Page](https://perfectxu88.github.io/Towards/)
@@ -89,12 +89,12 @@ My research interests are primarily focused on autonomous driving, with a partic
 </div>
 </div>
 
-
 - [Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/10924758), Jiaqi Liu, **Chengkai Xu**, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, accepted by IEEE Robotics and Automation Letters (RA-L).
 - [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/pdf/2503.00502), Shiyu Fang, Jiaqi Liu, **Chengkai Xu**, Chen Lv, Peng Hang, Jian Sun, accepted by IEEE Transactions on Intelligent Transportation Systems (TITS).
 - [Recognize then Resolve: A Hybrid Framework for Understanding Interaction and Cooperative Conflict Resolution in Mixed Traffic](https://arxiv.org/pdf/2501.19025), Shiyu Fang, Donghao Zhou, Yiming Cui, **ChengKai Xu**, Peng Hang, Jian Sun, accepted by IEEE Intelligent Vehicles Symposium (IV).
 
 # 🎖 Honors and Awards
+- *2026.10* National Scholarship of China
 - *2025.07* Shanghai Outstanding Graduate (top 1%) with an Excellent Graduation Thesis
 - *2025.05* Tongji University Pursuit of Excellence Award (6/18000+)
 - *2024.12* Academic Star of Tongji University
@@ -106,14 +106,6 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 
 # 📖 Educations
-- *2025.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
+- *2026.09 - now*, Ph.D. of Traffic Engineering, Tongji University, Shanghai, China
+- *2025.09 - 2026.06*, Master of Traffic Engineering, Tongji University, Shanghai, China (GPA: 92.47/100)
 - *2021.09 - 2025.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China (Rank: 1/230)
-
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
