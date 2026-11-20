@@ -46,6 +46,15 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pad-framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PAD: Policy-Aware Data Valuation for Autonomous Driving](https://perfectxu88.github.io/PAD/)
+
+**Chengkai Xu**, Yicheng Guo, Jiaqi Liu, Yiming Cui, Shiyu Fang, Peng Hang, Hao Zhang, Jian Sun, Arxiv 2026. [Code](https://github.com/PerfectXu88/PAD), [Project Page](https://perfectxu88.github.io/PAD/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DriveHierarchy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
